@@ -1,8 +1,8 @@
 {
-"app":"logas"
-"port":3000
-"build":{
-"location":"iran"
-}
-"disks":[]
+  "app":"logas",
+  "port":3000,
+  "build":{
+    "location":"iran"
+  },
+  "disks":[]
 }
